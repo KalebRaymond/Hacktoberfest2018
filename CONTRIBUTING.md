@@ -221,7 +221,7 @@
 #### Name: [Prashant Bajaj](https://github.com/bajaj99prashant)
 - Bio: computer science student having aspiration in frontend web development.
 -Programming Language: Javascript
-#### Name: [Sam Chantwell] (https://github.com/KalebRaymond)
+#### Name: [Sam Chantwell](https://github.com/KalebRaymond)
 - Bio: Comp Sci freshman and T-Shirt collector
 - Programming Language: C++ and Java
 
